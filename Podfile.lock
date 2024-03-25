@@ -1,0 +1,38 @@
+PODS:
+  - Hero (1.6.3)
+  - IQKeyboardManager (6.5.17)
+  - Resolver (1.5.0)
+  - SDWebImage (5.18.10):
+    - SDWebImage/Core (= 5.18.10)
+  - SDWebImage/Core (5.18.10)
+  - TinyConstraints (4.0.2)
+  - ViewAnimator (3.1.0)
+
+DEPENDENCIES:
+  - Hero
+  - IQKeyboardManager
+  - Resolver
+  - SDWebImage (~> 5.0)
+  - TinyConstraints
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - Hero
+    - IQKeyboardManager
+    - Resolver
+    - SDWebImage
+    - TinyConstraints
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  Hero: 419d43384355b3168512bd8ac6a33aadd3dc575b
+  IQKeyboardManager: 904d013844bbae0abe073f015487bfebe5476335
+  Resolver: 68984624572763018fd8ec7b8e3e8df0e3b6bba5
+  SDWebImage: fc8f2d48bbfd72ef39d70e981bd24a3f3be53fec
+  TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
+  ViewAnimator: a9ceed80266e00fd435ec4fb99b2df64d580d0e4
+
+PODFILE CHECKSUM: b128ed7f41824eeb99dbe7064304062f81ffbd72
+
+COCOAPODS: 1.13.0
